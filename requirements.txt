@@ -1,0 +1,5 @@
+PyQt5
+moviepy
+opencv-python
+numpy
+pyqtgraph
